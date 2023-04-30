@@ -13,10 +13,6 @@ body{
     border: 1px solid black;
     margin: 0px;
 }
-li{
-    list-style: none;
-    display: flex;
-}
 #result{
     display: flex;
     align-items: center;
