@@ -46,15 +46,3 @@ li{
 .row{
     display: flex;
 }
-table{
-    width: 100%;
-    border: 1px solid black;
-}
-td{
-    text-align: center;
-    font-size: 30px;
-    font-family: monospace;
-}
-th{
-    width: 33%;
-}
