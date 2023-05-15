@@ -12,6 +12,9 @@ body{
 #body{
     border: 1px solid black;
     margin: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 330px;
 }
 #result{
     display: flex;
@@ -38,7 +41,4 @@ body{
 }
 #head{
     width: 100%;
-}
-.row{
-    display: flex;
 }
