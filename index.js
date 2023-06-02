@@ -1,8 +1,5 @@
 let areas = document.getElementsByClassName("area")
 let result = document.getElementById("result")
-let xcell = document.getElementById("x")
-let ocell = document.getElementById("o")
-let drawcell = document.getElementById("draw")
 let turn = "X"
 let winner;
 
